@@ -8,8 +8,7 @@ Rest-o is an android application that display restaurants information catalogue.
 
 # Screenshot
 <p align="center">
-   <img src="https://user-images.githubusercontent.com/90978711/135740373-e729d6d8-7e9c-4835-b215-8a1e03e14a40.png"/>
-   
+   <img src="https://user-images.githubusercontent.com/90978711/135740373-e729d6d8-7e9c-4835-b215-8a1e03e14a40.png"/><p>     </p>
    <img src="https://user-images.githubusercontent.com/90978711/135740385-0170f983-1738-4706-9831-a66f0c08d05f.png"/>
    <img src="https://user-images.githubusercontent.com/90978711/135740381-70a16d1b-5cc3-4536-834e-867cabf7e819.png"/>
 </p>
