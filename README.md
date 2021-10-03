@@ -1,6 +1,6 @@
 # Rest-o
 # Description
-Rest-o is an android application that display restaurants information catalogue. The information is obtained from Zomato API (https://developers.zomato.com/?lang=id). Developed using Java programming language with MVVM architecture, ViewModel, LiveData, RecyclerView,  Zomato API, and OpenStreetMap library.
+Rest-o is an android application that display restaurant information catalogues. The information is obtained from Zomato API (https://developers.zomato.com/?lang=id). Developed using Java programming language with MVVM architecture, ViewModel, LiveData, RecyclerView,  Zomato API, and OpenStreetMap library.
 
 # Function
 - List of restaurants
